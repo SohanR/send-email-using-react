@@ -33,6 +33,7 @@ function App() {
       <GithubCorner href="https://github.com/SohanR/send-email-using-react" /> 
 
       <h1 className='title'>Send Email Using ReactJS without Backend</h1> 
+      <h3 style={{marginBottom:"30px", fontSize:"20px"}}>This project allows sending emails directly from the client-side using the EmailJS library, eliminating the need for a backend service like Node.js or a mail server setup.</h3>
 
 
       <div className='container border'>
