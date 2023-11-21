@@ -12,7 +12,7 @@ The primary purpose of this project is to demonstrate sending emails solely from
 
 - Simple Interface: Provides a straightforward interface to input sender and recipient details along with the message.
 
-- Demonstration: A live demo of the project is available [here]().
+- Demonstration: A live demo of the project is available [here](https://react-send-email.netlify.app/).
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ The primary purpose of this project is to demonstrate sending emails solely from
 
 # Live Demo
 
-## To see a live demonstration of this project, visit Live Demo [Link]().
+## To see a live demonstration of this project, visit Live Demo [Link](https://react-send-email.netlify.app/).
 
 ## Credits
 
